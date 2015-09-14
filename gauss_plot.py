@@ -60,3 +60,4 @@ fig.subplots_adjust(bottom=0.30)
 
 # ax.tick_params(axis='x', which='major', labelsize=10, top='off')
 plt.savefig('gauss.png')
+#María José Hernández Pozo, hpozo.jose@gmail.com
